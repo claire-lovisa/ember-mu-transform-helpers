@@ -5,4 +5,4 @@ Ember [transform](http://emberjs.com/api/data/classes/DS.Transform.html) helpers
 The following transforms are available:
 * email
 * phone
-* lang-string-set
+* language-string-set
